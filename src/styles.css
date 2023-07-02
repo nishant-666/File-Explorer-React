@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+}
+
+.file-system {
+  margin-left: 10px;
+}
+
+h3 {
+  cursor: pointer;
+}
+
+.flexed {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
